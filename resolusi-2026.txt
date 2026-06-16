@@ -3,6 +3,5 @@ resolusi-2026
 
 - konsisten create konten
 - create a landing page for corporation
-- make a community
-
-- make adigital product
+- make a digital product
+- digital poduct tech
